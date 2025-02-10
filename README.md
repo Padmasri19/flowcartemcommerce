@@ -1,1 +1,1 @@
-# flowcartemcommerce
+A Flowchart E-commerce website built with React for a seamless shopping experience. It features a dynamic product catalog, cart management, and a responsive UI. Designed for efficiency, scalability, and smooth user interaction.
